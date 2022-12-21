@@ -17,7 +17,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details-icons'/>
                   <div>
                     <h4>HTML</h4>
-                    <small className='experience_details'>Experienced</small>
+                    <small className='experience_details-skill'>Experienced</small>
                   </div>
             </article>
 
@@ -25,7 +25,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details-icons'/>
                   <div>
                     <h4>CSS</h4>
-                    <small className='experience_details'>Intermediate</small>
+                    <small className='experience_details-skill'>Intermediate</small>
                   </div>
             </article>
 
@@ -33,7 +33,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details-icons'/>
                   <div>
                     <h4>JavaScript</h4>
-                    <small className='experience_details'>Intermediate</small>
+                    <small className='experience_details-skill'>Intermediate</small>
                   </div>
             </article>
 
@@ -41,7 +41,7 @@ const Experience = () => {
                 <BsPatchCheck className='experience_details-icons'/>
                   <div>
                     <h4>React</h4>
-                    <small className='experience_details'>Beginnner</small>
+                    <small className='experience_details-skill'>Beginnner</small>
                   </div>
             </article>
 
@@ -50,7 +50,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Material UI</h4>
-                  <small className='experience_details'>Beginnner</small>
+                  <small className='experience_details-skill'>Experienced</small>
                 </div>
             </article>
        
@@ -64,7 +64,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>NodeJS</h4>
-                  <small className='experience_details'>Experienced</small>
+                  <small className='experience_details-skill'>Experienced</small>
                 </div>
             </article>
 
@@ -72,7 +72,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Express</h4>
-                  <small className='experience_details'>Intermediate</small>
+                  <small className='experience_details-skill'>Intermediate</small>
                 </div>
             </article>
 
@@ -80,7 +80,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Java</h4>
-                  <small className='experience_details'>Intermediate</small>
+                  <small className='experience_details-skill'>Intermediate</small>
                 </div>
             </article>
 
@@ -88,7 +88,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>MongoDB</h4>
-                  <small className='experience_details'>Beginnner</small>
+                  <small className='experience_details-skill'>Beginnner</small>
                 </div>
             </article>
 
@@ -96,7 +96,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>SQL</h4>
-                  <small className='experience_details'>Beginnner</small>
+                  <small className='experience_details-skill'>Beginnner</small>
                 </div>
             </article>
         </div>
@@ -110,7 +110,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Git</h4>
-                  <small className='experience_details'>Experienced</small>
+                  <small className='experience_details-skill'>Experienced</small>
                 </div>
             </article>
 
@@ -118,7 +118,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Bash</h4>
-                  <small className='experience_details'>Intermediate</small>
+                  <small className='experience_details-skill'>Intermediate</small>
                 </div>
             </article>
 
@@ -126,7 +126,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Figma</h4>
-                  <small className='experience_details'>Intermediate</small>
+                  <small className='experience_details-skill'>Intermediate</small>
                 </div>
             </article>
 
@@ -134,7 +134,7 @@ const Experience = () => {
               <BsPatchCheck className='experience_details-icons'/>
                 <div>
                   <h4>Postman</h4>
-                  <small className='experience_details'>Beginnner</small>
+                  <small className='experience_details-skill'>Beginnner</small>
                 </div>
             </article>
        
