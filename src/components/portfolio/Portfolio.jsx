@@ -11,21 +11,21 @@ const data = [
     image: portfolioIMG1,
     title: "Keeper Note App - Google Keep Clone",
     github:"https://github.com/ipshamenon/keeper-app",
-    demo:""
+    demo:"https://ipshamenon-keeperapp.onrender.com"
   },
   {
     id: 2,
     image: portfolioIMG2,
     title: "To Do List Full Stack App",
     github:"https://github.com/ipshamenon/todolist-app",
-    demo:"https://ipsha-todolist-app.herokuapp.com/"
+    demo:"https://ipshamenon-todolist.onrender.com"
   },
   {
     id: 3,
     image: portfolioIMG3,
     title: "Weather Forecasting App",
     github:"https://github.com/ipshamenon/weather-app",
-    demo:"https://ipsha-weather-app.herokuapp.com/"
+    demo:"https://weather-app-4hba.onrender.com"
   },
   {
     id: 4,
