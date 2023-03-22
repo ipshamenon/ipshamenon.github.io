@@ -2,7 +2,7 @@ import React from 'react'
 import "./hobbies.css";
 import HOBBY1 from "../../assets/cheesecake.jpg";
 import HOBBY2 from "../../assets/cake.jpg";
-import HOBBY3 from "../../assets/cheesecake.jpg";
+import HOBBY3 from "../../assets/chocoCake.jpeg";
 import HOBBY4 from "../../assets/cheesecake.jpg";
 
 // import Swiper core and required modules
@@ -23,6 +23,10 @@ const data = [
   {
     image: HOBBY2,
     description:"Blueberry Lemon Birthday Cake"
+  },
+  {
+    image: HOBBY3,
+    description:"Chocolate Birthday Cake"
   }
 ]
 
